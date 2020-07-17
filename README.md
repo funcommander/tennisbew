@@ -1,8 +1,6 @@
 # tennisbew
 Beschreibung einer Arduinolösung für die Realisierung einer einfachen Tennisplatzbewässerung
 
-Tennisplatzbewässerung
-
   Über den Taster 0 werden sequentiel Platz 1 bis 6 für jeweils 3 Minuten bewässert.
   
   Der Taster 1 bis 6 haben Vorrang zum Taster 0
